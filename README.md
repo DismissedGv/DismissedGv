@@ -1,4 +1,4 @@
-## Hello 👋
+## Hey there 👋
 
 I'm Sinan and develop games.
 
