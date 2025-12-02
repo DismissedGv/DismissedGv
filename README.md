@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Sinan and develop games.
+<!-- I'm Sinan and develop games. -->
 
 <!--
 **DismissedGv/DismissedGv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
