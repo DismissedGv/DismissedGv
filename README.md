@@ -32,7 +32,7 @@ I'm a **Game Developer** passionate about creating gameplay that *feels good*, l
 ![Trello](https://img.shields.io/badge/-Trello-FFD700?style=flat-square&logo=trello&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-1E90FF?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-1E90FF?style=flat-square&logo=unreal-engine&logoColor=white)
+<!---->
 ![Notion](https://img.shields.io/badge/-Notion-32CD32?style=flat-square&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-32CD32?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-32CD32?style=flat-square&logo=trello&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-32CD32?style=flat-square&logo=visual-studio-code&logoColor=white)
