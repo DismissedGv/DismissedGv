@@ -1,18 +1,31 @@
-## Hey there 👋
+Hi, I'm Sinan 👋
 
-<!-- I'm Sinan and develop games. -->
+Game Developer • Unity Programmer • Software Developer
 
-<!--
-**DismissedGv/DismissedGv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer focusing on game development, AI systems, and full-stack app creation. I love building projects from the ground up—everything from Unity gameplay systems to JavaScript web tools, and even mobile apps for fitness and productivity.
 
-Here are some ideas to get you started:
+🔧 Tech I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: C#, JavaScript, Python
+
+Game Engines: Unity
+
+Tools: Git, Postman, Blender (basic), Figma
+
+Specialties: AI systems, gameplay mechanics, utility systems, app logic & architecture
+
+🚀 Currently Working On
+
+A gym log + calorie tracking app (Unity + C#)
+
+AI behavior systems for an Indie ARPG project
+
+Custom tools & utilities for smoother workflow
+
+🎯 Goals
+
+Grow as a full-time Unity / Gameplay Programmer
+
+Ship my first game prototype publicly
+
+Build polished, scalable systems I can reuse in future games
