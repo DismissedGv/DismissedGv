@@ -30,6 +30,7 @@ I'm a **Game Developer** passionate about creating gameplay that *feels good*, l
 ![Perforce](https://img.shields.io/badge/-Perforce-FFD700?style=flat-square&logo=perforce&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-FFD700?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-FFD700?style=flat-square&logo=trello&logoColor=white)
+
 ![Unity](https://img.shields.io/badge/-Unity-1E90FF?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-1E90FF?style=flat-square&logo=unreal-engine&logoColor=white)
 <!---->
