@@ -17,14 +17,14 @@ I'm a **Game Developer** passionate about creating gameplay that *feels good*, l
 **Strengths:** Clean code, AI behavior, system design, optimization, UI logic  
 -->
 
-### 💻 Programming Languages
+### 💻 Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-FF4C4C?style=flat-square&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF4C4C?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FF4C4C?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FF4C4C?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF4C4C?style=flat-square&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-FF4C4C?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-FF4C4C?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-FF4C4C?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FFD700?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-FFD700?style=flat-square&logo=github&logoColor=white)
 ![Perforce](https://img.shields.io/badge/-Perforce-FFD700?style=flat-square&logo=perforce&logoColor=white)
