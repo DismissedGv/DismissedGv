@@ -34,9 +34,3 @@ I'm a **Game Developer** passionate about creating gameplay that *feels good*, l
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-1E90FF?style=flat-square&logo=unreal-engine&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-32CD32?style=flat-square&logo=notion&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-32CD32?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-32CD32?style=flat-square&logo=docker&logoColor=white)
-
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sinan_ckc/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinan-koc-47065428b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DismissedGv)
