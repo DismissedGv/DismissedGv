@@ -14,8 +14,9 @@ I'm a Swedish-based **Game Developer** passionate about creating gameplay that *
 **Tools:** Git, Blender (basic), Figma, Postman  
 **Strengths:** Clean code, AI behavior, system design, optimization, UI logic  
 -->
+<script src="https://kit.fontawesome.com/80e067a9ea.js" crossorigin="anonymous"></script>
 ## 🛠 Tech Stack
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
