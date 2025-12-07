@@ -19,6 +19,7 @@ I'm a **Game Developer** passionate about creating gameplay that *feels good*, l
 
 ### 💻 Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-FF4C4C?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FF4C4C?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF4C4C?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FF4C4C?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FF4C4C?style=flat-square&logo=python&logoColor=white)
