@@ -1,5 +1,5 @@
-# Hi, I'm Sinan 👋  
-I'm a Swedish-based **Game Developer** passionate about creating gameplay that *feels good*, looks clean, and runs smoothly.
+# Hi, there 👋  
+I'm Sinan Koc, a **Game Developer** passionate about creating gameplay that *feels good*, looks clean, and runs smoothly.
 
 <!--## 🎯 Expertise
 - **Gameplay Programming** (Unity, C#)  
