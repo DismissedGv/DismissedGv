@@ -37,6 +37,14 @@ I'm a **Game Developer** passionate about creating gameplay that *feels good*, l
 ![VS Code](https://img.shields.io/badge/VS%20Code-✓-32CD32?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-✓-32CD32?style=flat-square&logo=docker&logoColor=white)
 
+![C#](https://img.shields.io/badge/C%23-✓-FF4C4C?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-✓-FF4C4C?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-✓-FF4C4C?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-✓-FF4C4C?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-✓-FF4C4C?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-✓-FF4C4C?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-✓-FF4C4C?style=flat-square&logo=css3&logoColor=white)
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sinan_ckc/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinan-koc-47065428b/)
