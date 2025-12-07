@@ -1,5 +1,5 @@
 # 🎮 Sinan Koç 
-**`Jack of all trades, master of none (Game/Webb/Software)`**
+**`Jack of all trades, master of none`**
 
 I'm a **Game Developer** passionate about creating gameplay that *feels good*, looks clean, and runs smoothly.
 
