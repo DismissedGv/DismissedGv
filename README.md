@@ -1,5 +1,6 @@
-# Hi, there 👋  
-I'm Sinan Koc, a **Game Developer** passionate about creating gameplay that *feels good*, looks clean, and runs smoothly.
+# 🎮 Sinan Koç 
+**`Jack of all trades, master of none (Game Developer)`**
+I'm a **Game Developer** passionate about creating gameplay that *feels good*, looks clean, and runs smoothly.
 
 <!--## 🎯 Expertise
 - **Gameplay Programming** (Unity, C#)  
