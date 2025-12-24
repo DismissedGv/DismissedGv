@@ -1,4 +1,4 @@
-# Hi there, I'm Sinan Koç 🦆 
+# Hi there, I'm Sinan🦆 
 **`Jack of all trades, master of none`**
 
 I'm a **Game Developer** passionate about creating gameplay that *feels good*, looks clean, and runs smoothly.
