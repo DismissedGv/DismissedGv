@@ -1,4 +1,4 @@
-# Hi there, I'm Sinan🦆 
+# Hi there, I'm Sinan 🦆 
 **`Jack of all trades, master of none`**
 
 I'm a **Game Developer** passionate about creating gameplay that *feels good*, looks clean, and runs smoothly.
@@ -17,7 +17,7 @@ I'm a **Game Developer** passionate about creating gameplay that *feels good*, l
 **Strengths:** Clean code, AI behavior, system design, optimization, UI logic  
 -->
 
-### Tech Stack
+## Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-FF4C4C?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FF4C4C?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF4C4C?style=flat-square&logo=javascript&logoColor=white)
