@@ -1,7 +1,7 @@
 # Hi there, I'm Sinan 🦆 
 **`Jack of all trades, master of none`**
 
-I'm a **Game Developer** that loves to create gameplay that *feels good*, looks clean, and runs smoothly.
+I'm a **Game Developer** passionate about creating gameplay that *feels good*, looks clean, and runs smoothly.
 
 <!--## 🎯 Expertise
 - **Gameplay Programming** (Unity, C#)  
